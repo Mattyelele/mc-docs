@@ -33,6 +33,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [MOTD](./Java/motd.md)
 * [How to join server](./Java/joinserver.md)
 * [How to install DynMap](./Java/installdynmap.md)
+* [Custom server jar files](./Java/customjar.md)
 
 ## Bedrock Edition Minecraft (MCPE) <a name="mcpe"></a>
 * [Install Addons](./Bedrock/addons.md)
