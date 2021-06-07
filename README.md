@@ -19,6 +19,7 @@ This is an open-source Knowledge base for Minecraft, VPS and other games on the 
 
 ## Bedrock
 * [Install Addons](./Bedrock/addons.md)
+* [How to ban user](./Bedrock/howtoban.md)
 
 ## Valheim
 * [Add Admins](./Valheim/addadmin.md)
