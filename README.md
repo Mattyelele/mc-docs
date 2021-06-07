@@ -1,3 +1,4 @@
+
 # Hosting Knowledgebase
 
 This is an open-source Knowledge base for Minecraft, VPS and other games on the [server.pro](https://server.pro) panel.
@@ -15,6 +16,9 @@ This is an open-source Knowledge base for Minecraft, VPS and other games on the 
 * [Gamerules](./Minecraft/gamerules.md)
 * [How to OP users](./Minecraft/how-to-op-user.md)
 * [MOTD](./Minecraft/motd.md)
+
+## Bedrock
+* [Install Addons](./Bedrock/addons.md)
 
 ## Valheim
 * [Add Admins](./Valheim/addadmin.md)
