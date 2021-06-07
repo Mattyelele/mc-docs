@@ -22,6 +22,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [Sub Accounts](./General/subaccounts.md)
 * [Change Password](./General/changepass.md)
 * [Custom Plan](./General/customplan.md)
+* [Cancel Automatic Payments (Paypal)](./General/paypalcancel.md)
 
 ## Java Edition Minecraft <a name="java"></a>
 * [Add Resource Pack](./Java/add-resource-pack.md)
