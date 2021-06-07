@@ -31,6 +31,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [How to install plugins](./Java/How-to-install-plugins.md)
 * [How to OP users](./Java/how-to-op-user.md)
 * [MOTD](./Java/motd.md)
+* [How to join server](./Java/joinserver.md)
 
 ## Bedrock Edition Minecraft (MCPE) <a name="mcpe"></a>
 * [Install Addons](./Bedrock/addons.md)
