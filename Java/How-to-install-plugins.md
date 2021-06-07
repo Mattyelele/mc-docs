@@ -11,7 +11,7 @@ This section will teach you how to install plugins on a Premium Server and a Gam
 
 1. Log into your server.pro panel and select your Minecraft server.
 2. Locate the plugins tab on the left-hand side of your screen.
-3. Once there you'll be presented with pages of plugins, find one you want to install then hit `Install Latest` If the plugin your looking for isn't on the plugins tab then you can find it on https://www.spigotmc.org/resources/categories/spigot.4/ and follow the Uploading plugins guide. What this will do is download and put the plugins jar file into your server plugins folder. You'll get a message in the bottom right of your screen saying  Plugin Installed and the `Install Latest` button will turn blue and say Installed.
+3. Once there you'll be presented with pages of plugins, find one you want to install then hit `Install Latest` If the plugin your looking for isn't on the plugins tab then you can find it on [Spigot](https://www.spigotmc.org/resources/categories/spigot.4/) and follow the Uploading plugins guide. What this will do is download and put the plugins jar file into your server plugins folder. You'll get a message in the bottom right of your screen saying  Plugin Installed and the `Install Latest` button will turn blue and say Installed.
 4. Now in the top left corner there is a red power off and a orange restart button, click the restart button.
 5. And now if you check console you should see that the plugin has been loaded.
 
