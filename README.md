@@ -7,6 +7,7 @@ This is an open-source Knowledge base for Minecraft, VPS and other games on the 
 ## General
 * [Change server Location](./General/locations.md)
 * [Sub Accounts](./General/subaccounts.md)
+* [Change Password](./General/changepass.md)
 
 ## Minecraft
 * [Add Resource Pack](./Minecraft/add-resource-pack.md)
