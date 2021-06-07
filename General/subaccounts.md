@@ -1,8 +1,10 @@
 # How to add sub-accounts
 
-1. You can do this by going to "My Servers" and clicking the "Configuration" tab of the server.
+1. You can do this by going to "My Servers" and clicking the "Configuration" tab of the server
 ![enter image description here](https://elele.team/upload/tuBikY.png)
+
 2. Once you're there head on over to the "Access Control" tab and you can input the emails of the people you wish to give server control panel access to.
+
 ![enter image description here](https://elele.team/upload/Ol23mN.png)
 
 
