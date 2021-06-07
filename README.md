@@ -1,39 +1,51 @@
+<h3 align="center">Server.pro Knowledgebase</h3>
+<div align="center">
+  
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  
+This is an open-source Knowledgebase for Minecraft, VPS and other games on the [server.pro](https://server.pro) panel.
+</div>
+  
+--- 
 
-# Hosting Knowledgebase
+## 📝 Table of Contents
 
-This is an open-source Knowledge base for Minecraft, VPS and other games on the [server.pro](https://server.pro) panel.
+- [General](#general)
+- [Java Edition](#java)
+- [Bedrock Edition](#mcpe)
+- [Valheim](#valheim)
+- [Terraria](#terraria)
+- [Contributors](#authors)
 
-# Contents
-
-## General
+## General <a name="general"></a>
 * [Change server Location](./General/locations.md)
 * [Sub Accounts](./General/subaccounts.md)
 * [Change Password](./General/changepass.md)
 
-## Java Edition Minecraft
+## Java Edition Minecraft <a name="java"></a>
 * [Add Resource Pack](./Java/add-resource-pack.md)
 * [Eula](./Java/eula.md)
 * [Gamerules](./Java/gamerules.md)
 * [How to OP users](./Java/how-to-op-user.md)
 * [MOTD](./Java/motd.md)
 
-## Bedrock Edition Minecraft (MCPE)
+## Bedrock Edition Minecraft (MCPE) <a name="mcpe"></a>
 * [Install Addons](./Bedrock/addons.md)
 * [How to ban user](./Bedrock/howtoban.md)
 
-## Valheim
+## Valheim <a name="valheim"></a>
 * [Add Admins](./Valheim/addadmin.md)
 * [Add Password](./Valheim/addpassword.md)
 * [Add Whitelist](./Valheim/addwhitelist.md)
 * [Change World](./Valheim/changeworld.md)
 * [Join Server](./Valheim/joinserver.md)
 
-## Terriaria
+## Terraria <a name="terraria"/>
 * [Change Mode](./Terraria/changemode.md)
 * [Latest 1.4.0.5 Issue](./Terraria/latestissue.md)
 * [There's been an update!](./Terraria/update.md)
 * [Upload World](./Terraria/uploadworld.md)
 
-# Contributors
+## ✍️ Authors <a name = "authors"></a>
 * [Jackelele](https://github.com/Jackelele)
 * [Mattyelele](https://github.com/Mattyelele)
