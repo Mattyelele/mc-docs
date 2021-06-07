@@ -10,14 +10,14 @@ This is an open-source Knowledge base for Minecraft, VPS and other games on the 
 * [Sub Accounts](./General/subaccounts.md)
 * [Change Password](./General/changepass.md)
 
-## Minecraft
-* [Add Resource Pack](./Minecraft/add-resource-pack.md)
-* [Eula](./Minecraft/eula.md)
-* [Gamerules](./Minecraft/gamerules.md)
-* [How to OP users](./Minecraft/how-to-op-user.md)
-* [MOTD](./Minecraft/motd.md)
+## Java Edition Minecraft
+* [Add Resource Pack](./Java/add-resource-pack.md)
+* [Eula](./Java/eula.md)
+* [Gamerules](./Java/gamerules.md)
+* [How to OP users](./Java/how-to-op-user.md)
+* [MOTD](./Java/motd.md)
 
-## Bedrock
+## Bedrock Edition Minecraft (MCPE)
 * [Install Addons](./Bedrock/addons.md)
 * [How to ban user](./Bedrock/howtoban.md)
 
