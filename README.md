@@ -28,6 +28,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [Add Resource Pack](./Java/add-resource-pack.md)
 * [Eula](./Java/eula.md)
 * [Gamerules](./Java/gamerules.md)
+* [How to install plugins](./Java/How-to-install-plugins.md)
 * [How to OP users](./Java/how-to-op-user.md)
 * [MOTD](./Java/motd.md)
 
