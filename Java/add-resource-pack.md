@@ -41,3 +41,6 @@ In this guide we will be using Dropbox as our file sharing platform of choice. F
 6. Remember to click "Save File" on the bottom of the page once you have done this.
 7. Start your server again
 
+## SHA-1
+
+In some cases you are required to add SHA1 to your `server.properties`. In order to do this you just need to simply head over to: http://onlinemd5.com/. Upload your texture pack ZIP file an select `SHA1` and copy the response given in the input field. Then you can go over to your `server.properties` and add the SHA1 to `resource-pack-sha1=`.
