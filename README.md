@@ -21,6 +21,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [Change server Location](./General/locations.md)
 * [Sub Accounts](./General/subaccounts.md)
 * [Change Password](./General/changepass.md)
+* [Custom Plan](./General/customplan.md)
 
 ## Java Edition Minecraft <a name="java"></a>
 * [Add Resource Pack](./Java/add-resource-pack.md)
@@ -32,6 +33,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 ## Bedrock Edition Minecraft (MCPE) <a name="mcpe"></a>
 * [Install Addons](./Bedrock/addons.md)
 * [How to ban user](./Bedrock/howtoban.md)
+* [Enable Coordinates](./Bedrock/coordinates.md)
 
 ## Valheim <a name="valheim"></a>
 * [Add Admins](./Valheim/addadmin.md)
