@@ -4,6 +4,9 @@ This is an open-source Knowledge base for Minecraft, VPS and other games on the 
 
 # Contents
 
+## General
+* [Change server Location](./General/locations.md)
+
 ## Minecraft
 * [Add Resource Pack](./Minecraft/add-resource-pack.md)
 * [Eula](./Minecraft/eula.md)
