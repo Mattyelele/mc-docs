@@ -40,6 +40,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [How to ban user](./Bedrock/howtoban.md)
 * [Enable Coordinates](./Bedrock/coordinates.md)
 * [Install Shaders](./Bedrock/installshaders.md)
+* [OP User](./Bedrock/opuser.md)
 
 ## Valheim <a name="valheim"></a>
 * [Add Admins](./Valheim/addadmin.md)
