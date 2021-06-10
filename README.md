@@ -46,6 +46,7 @@ This is an open-source Knowledgebase for Minecraft, VPS and other games on the [
 * [Add Whitelist](./Valheim/addwhitelist.md)
 * [Change World](./Valheim/changeworld.md)
 * [Join Server](./Valheim/joinserver.md)
+* [Update Server](./Valheim/update.md)
 
 ## Terraria <a name="terraria"/>
 * [Change Mode](./Terraria/changemode.md)
